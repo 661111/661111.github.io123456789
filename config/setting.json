@@ -1,0 +1,28 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https://661111.github.io/",
+    "email": "xiaoxin104@outlook.com",
+    "enabledProxy": "direct",
+    "netlifySiteId": "Netlify",
+    "platform": "github",
+    "repository": "661111.github.io",
+    "token": "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",
+    "username": "661111"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "857e5e5372364778ccd3",
+      "clientSecret": "4f19568524281743e884cf36b514b023441d09ad",
+      "owner": "",
+      "repository": "661111.github.io"
+    },
+    "showComment": true
+  }
+}
